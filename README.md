@@ -1,5 +1,5 @@
 # Sales-Data-Analysis
-Created an interactive report using sales data containing 4 years (2014 - 2017) worth of sales. It had 7000 records in total. Data cleaning and formatting was done using MS Excel and the analysis and report creation was done using Power BI desktop.
+Created an interactive report using sales data containing 4 years (2014 - 2017) of sales data. It had 7000 records in total. Data cleaning and formatting was done using MS Excel and the analysis and report creation was done using Power BI desktop.
 Findings from the analysis include:
 - $4 years' worth of sales came to $1.6 million.
 - Beginning in 2014, the number of customers increased by 29.96% in three years.
